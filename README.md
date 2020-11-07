@@ -1,2 +1,4 @@
 # CISC-192-MESA-Trinh
 This repo contains code for all the weekly programming assignments except week 8, It also has extra credit assignment 1.
+
+Hey there thanks for checking out the readme section, just wanted to give some advice on the class. All the programming assignment posted here recieved full points so if you just try your hardest on the quizzes you should be able to finish the class with an A although it may be a low A as I aced all of the quizzes and did the extra credit assignment 1 and finished with a 93.75%. For the quizzes, most of the answers can be find directly from the book in the graphic/example sections. Unfortunately I do not have the code for the last programming assignment because I was taking CISC 191 (intermediate java) and CISC 211 (computer org. and asm) and had a final project for each class, so I threw the towel in for this class once I had an A, so sorry if you were looking for the last programming assignment. :(
